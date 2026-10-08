@@ -39,6 +39,8 @@ The data formats and standards that define how a CBOM is structured and exchange
 
 Open-source tools for discovering, generating, and visualizing cryptographic bills of materials.
 
+- [cbom-tools](https://github.com/LennonHaha/fibemate-tools/tree/main/cbom-tools) - CBOM scanner and diff CLI for Node.js projects. Generates CycloneDX 1.6 CBOM; detects algorithm changes between releases.
+
 ## Post-Quantum Cryptography (PQC) Migration Tools
 
 Tooling for discovering quantum-vulnerable cryptography and testing the migration to post-quantum algorithms.
