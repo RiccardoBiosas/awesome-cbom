@@ -45,6 +45,7 @@ Open-source tools for discovering, generating, and visualizing cryptographic bil
 
 Tooling for discovering quantum-vulnerable cryptography and testing the migration to post-quantum algorithms.
 
+- [PQ-Proof](https://github.com/g1mn/pqproof) - Offline CLI and GitHub Action that judges a codebase before and after a PQC migration with the same rules, writes the inventory of both trees as a CycloneDX 1.6 CBOM, and leaves an evidence hash anyone can recompute.
 
 ## Crypto-Agility Frameworks and Resources
 
